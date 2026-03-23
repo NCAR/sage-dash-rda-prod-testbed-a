@@ -49,7 +49,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2026-02-04T13:15:04Z</gco:DateTime>
+    <gco:DateTime>2025-07-27T22:06:08Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
@@ -123,20 +123,13 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>&lt;p&gt;Goals:&lt;br/&gt;
-To characterize particulate organic nitrate generated from NO3 oxidation of a-pinene and understand its hydrolysis process.&lt;/p&gt;
-&lt;p&gt;Summary:&lt;br/&gt;
-SOA including particulate organic nitrate formed by 12 ppb of a-pinene injected as precursor VOC and 80 ppb N2O5 injected as oxidant precursor + ~50 ppm HCHO as HO2 source.&lt;/p&gt;
-&lt;p&gt;Organization: Ng Research Group&lt;br/&gt;
-Lab Affiliation: Georgia Institute of Technology&lt;br/&gt;
-Chamber: Georgia Tech Environmental Chamber (Far)&lt;/p&gt;
-&lt;p&gt;Experiment Category: Condensed-phase chemical reaction, Aerosol formation&lt;br/&gt;
-Oxidant: Nitrate radical&lt;br/&gt;
-Reactants: ALPHA-PINENE&lt;br/&gt;
-Reaction Type: Dark oxidation, Hydrolysis&lt;br/&gt;
-Relative Humidity: 3-8&lt;br/&gt;
-Temperature: 22&lt;br/&gt;
-Seed Name: Ammonium sulfate&lt;/p&gt;</gco:CharacterString>
+        <gco:CharacterString>Goals: To characterize particulate organic nitrate generated from NO3 oxidation of a-pinene and understand its hydrolysis process.
+
+Summary: SOA including particulate organic nitrate formed by 12 ppb of a-pinene injected as precursor VOC and 80 ppb N2O5 injected as oxidant precursor + ~50 ppm HCHO as HO2 source.
+
+Organization: Ng Research Group Lab Affiliation: Georgia Institute of Technology Chamber: Georgia Tech Environmental Chamber (Far)
+
+Experiment Category: Condensed-phase chemical reaction, Aerosol formation Oxidant: Nitrate radical Reactants: ALPHA-PINENE Reaction Type: Dark oxidation, Hydrolysis Relative Humidity: 3-8 Temperature: 22 Seed Name: Ammonium sulfate</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -246,7 +239,7 @@ Seed Name: Ammonium sulfate&lt;/p&gt;</gco:CharacterString>
               <gmd:date>
                 <gmd:CI_Date>
                   <gmd:date>
-                    <gco:Date>2026-01-27</gco:Date>
+                    <gco:Date>2026-02-27</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -254,7 +247,7 @@ Seed Name: Ammonium sulfate&lt;/p&gt;</gco:CharacterString>
                 </gmd:CI_Date>
               </gmd:date>
               <gmd:edition>
-                <gco:CharacterString>23.2</gco:CharacterString>
+                <gco:CharacterString>23.4</gco:CharacterString>
               </gmd:edition>
               <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>
@@ -289,7 +282,7 @@ Seed Name: Ammonium sulfate&lt;/p&gt;</gco:CharacterString>
               <gmd:date>
                 <gmd:CI_Date>
                   <gmd:date>
-                    <gco:Date>2026-01-27</gco:Date>
+                    <gco:Date>2026-02-27</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -297,7 +290,7 @@ Seed Name: Ammonium sulfate&lt;/p&gt;</gco:CharacterString>
                 </gmd:CI_Date>
               </gmd:date>
               <gmd:edition>
-                <gco:CharacterString>23.2</gco:CharacterString>
+                <gco:CharacterString>23.4</gco:CharacterString>
               </gmd:edition>
               <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>
@@ -332,7 +325,7 @@ Seed Name: Ammonium sulfate&lt;/p&gt;</gco:CharacterString>
               <gmd:date>
                 <gmd:CI_Date>
                   <gmd:date>
-                    <gco:Date>2026-01-27</gco:Date>
+                    <gco:Date>2026-02-27</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -340,7 +333,7 @@ Seed Name: Ammonium sulfate&lt;/p&gt;</gco:CharacterString>
                 </gmd:CI_Date>
               </gmd:date>
               <gmd:edition>
-                <gco:CharacterString>23.2</gco:CharacterString>
+                <gco:CharacterString>23.4</gco:CharacterString>
               </gmd:edition>
               <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>

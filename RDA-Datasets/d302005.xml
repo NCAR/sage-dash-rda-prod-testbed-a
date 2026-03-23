@@ -49,7 +49,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2026-02-05T06:08:07Z</gco:DateTime>
+    <gco:DateTime>2019-05-28T19:17:27Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
@@ -113,7 +113,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>&lt;p&gt;Florida State University used uninitialized u- and v-component winds from the ECMWF IIIb analyses to calculate twice-daily vertical velocity omega grids for the full FGGE year (December 1, 1978 to November 30, 1979). Divergence corrections were applied for Dines compensation, and the effect of orography was introduced via a simple advective algorithm applied to 1000 millibars. The final omegas were evaluated for the same fifteen pressure levels where the horizontal wind components were analyzed.&lt;/p&gt;</gco:CharacterString>
+        <gco:CharacterString>Florida State University used uninitialized u- and v-component winds from the ECMWF IIIb analyses to calculate twice-daily vertical velocity omega grids for the full FGGE year (December 1, 1978 to November 30, 1979). Divergence corrections were applied for Dines compensation, and the effect of orography was introduced via a simple advective algorithm applied to 1000 millibars. The final omegas were evaluated for the same fifteen pressure levels where the horizontal wind components were analyzed.</gco:CharacterString>
       </gmd:abstract>
       <gmd:status>
         <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
@@ -210,7 +210,7 @@
               <gmd:date>
                 <gmd:CI_Date>
                   <gmd:date>
-                    <gco:Date>2026-01-27</gco:Date>
+                    <gco:Date>2026-02-27</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -218,7 +218,7 @@
                 </gmd:CI_Date>
               </gmd:date>
               <gmd:edition>
-                <gco:CharacterString>23.2</gco:CharacterString>
+                <gco:CharacterString>23.4</gco:CharacterString>
               </gmd:edition>
               <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>
@@ -253,7 +253,7 @@
               <gmd:date>
                 <gmd:CI_Date>
                   <gmd:date>
-                    <gco:Date>2026-01-27</gco:Date>
+                    <gco:Date>2026-02-27</gco:Date>
                   </gmd:date>
                   <gmd:dateType>
                     <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -261,7 +261,7 @@
                 </gmd:CI_Date>
               </gmd:date>
               <gmd:edition>
-                <gco:CharacterString>23.2</gco:CharacterString>
+                <gco:CharacterString>23.4</gco:CharacterString>
               </gmd:edition>
               <gmd:citedResponsibleParty>
                 <gmd:CI_ResponsibleParty>
